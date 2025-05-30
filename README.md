@@ -62,3 +62,9 @@ This machine learning project uses a Convolutional Neural Network (CNN) to class
    ```bash
    git clone https://github.com/your-username/cnn-environmental-sound-classification.git
    cd cnn-environmental-sound-classification
+---
+## 📬 Contact
+
+If you have any questions or are interested in collaboration, feel free to reach out:  
+📧 naomiafrin12@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/naomi-jalil-240160227/)
