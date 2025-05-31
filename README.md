@@ -26,12 +26,10 @@ This machine learning project uses a Convolutional Neural Network (CNN) to class
 
 ## 📊 Training Performance
 
-### 📉 Loss Curve
-![Loss Curve](images/Loss_curve.png)
-*Shows reduction in training and validation loss over 50 epochs.*
 
-### 📈 Accuracy Curve
+### 📈 Loss Curve and Accuracy Curve
 ![Accuracy Curve](images/Accuracy_curve.png)
+*Shows reduction in training and validation loss over 50 epochs.*
 *Model reaches over 95% training accuracy and ~92% validation accuracy.*
 
 ---
@@ -60,7 +58,7 @@ This machine learning project uses a Convolutional Neural Network (CNN) to class
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/cnn-environmental-sound-classification.git
+   git clone https://github.com/naomi-afrin/cnn-environmental-sound-classification.git
    cd cnn-environmental-sound-classification
 ---
 ## 📬 Contact
